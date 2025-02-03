@@ -1,4 +1,3 @@
-
 document.addEventListener("DOMContentLoaded", () => {
     const outputDiv = document.getElementById("output");
 
@@ -33,3 +32,4 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     });
 });
+
